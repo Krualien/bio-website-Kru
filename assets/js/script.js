@@ -8,9 +8,9 @@ document.addEventListener('DOMContentLoaded', function() {
   var closeButton = document.getElementById('close-button');
 
   var terminalTextContent = [
-      "User: SHUT UP NIGGA",
-      "IP: Loading...",
-      "System: Loading...",
+      "Name: Kru_alien",
+      "You IP: Loading...",
+      "You System: Loading...",
       "Bio Loaded",
       "Press Enter To Continue",
   ];
@@ -235,7 +235,7 @@ document.addEventListener('DOMContentLoaded', function() {
 ⣿⣿⣿⣿⣿⣿⡿⣱⣿⡏⣿⢛⡥⣓⣚⢛⣊⣈⠻⣿⢻⣿⣎⢿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⡿⣱⣿⣿⡇⣡⣿⡬⠵⢞⡻⠶⣹⣧⡹⢸⣿⣿⣇⢿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⢣⣿⣭⣭⣾⣿⣿⣦⠟⢭⣭⡛⢿⣿⣷⣬⣭⣿⣿⢸⣿⣿⣿⣿⣿
-⠿⠿⠿⠿⠿⠌⠻⠿⠿⠿⠿⠿⠇⠻⠓⠲⠛⠾⠿⠿⠿⠿⠿⠿⠸⠿⠿⠿⠿⠿⠀⠀
+  ⠿⠿⠿⠿⠿⠌⠻⠿⠿⠿⠿⠿⠇⠻⠓⠲⠛⠾⠿⠿⠿⠿⠿⠿⠸⠿⠿⠿⠿⠿⠀⠀
 `;
   }
 
